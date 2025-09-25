@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **tagpuno6619@gmail.com**
+- 📫 How to reach me **tagpuno619@gmail.com**
 
 - ⚡ Fun fact **Just a lazy programmer who wants to earn money**
 
