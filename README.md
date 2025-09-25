@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Mhel Angelo Tagpuno</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h1 align="center">Hi 👋, I'm Mhel Angelo</h1>
+<h3 align="center">A passionate fullstack developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5kydriven&label=Profile%20views&color=0e75b6&style=flat" alt="5kydriven" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5kydriven" alt="5kydriven" /></a> </p>
 
-- 🔭 I’m currently working on **Alumni Tracker System**
+- 🔭 I’m currently working on **Koda Kollectiv Inc**
 
-- 🌱 I’m currently learning **Nuxt & Vue**
+- 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **tagpuno.cpsu@gmail.com**
+- 📫 How to reach me **tagpuno6619@gmail.com**
 
-- ⚡ Fun fact **Just lazy programmer that want's to earn money**
+- ⚡ Fun fact **Just a lazy programmer who wants to earn money**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
