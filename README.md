@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-# Hey, I'm Mhel Angelo 👋
+# Hey, I'm Sky 👋
 ### Full-Stack Developer · Software Engineer · Flutter Dev · Available for Freelance 🚀
 
 *I turn coffee ☕ and late nights into clean code and shipped products.*
@@ -19,7 +19,7 @@
 
 ## 🙋 Who Am I?
 
-I'm a self-driven developer based in the Philippines 🇵🇭, currently building **Koda Kollectiv Inc** and leveling up my Flutter game.
+I'm a self-driven developer based in the Philippines 🇵🇭, currently working as a **Software Engineer at Koda Kollectiv Inc** and leveling up my Flutter game.
 
 I specialize in:
 - 🌐 **Full-Stack Web Development** — from pixel-perfect UIs to robust server-side logic
